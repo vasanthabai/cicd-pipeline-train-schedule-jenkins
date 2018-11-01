@@ -13,4 +13,4 @@ You can run the app with my fork:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-this is vasantha
+this is vasantha, you can run app with my fork
